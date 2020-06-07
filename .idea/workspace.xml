@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c127440e-c5da-4514-acf8-dd34c079f54b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/javademo/j2sedemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javademo/javademo.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/javademo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/generics/GenericsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/generics/GenericsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javademo/target/classes/com/liuy307/j2se/generics/GenericsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/target/classes/com/liuy307/j2se/generics/GenericsDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +146,7 @@
       <workItem from="1591516364201" duration="305000" />
       <workItem from="1591516767960" duration="5003000" />
       <workItem from="1591521804847" duration="7953000" />
+      <workItem from="1591542183461" duration="288000" />
     </task>
     <servers />
   </component>

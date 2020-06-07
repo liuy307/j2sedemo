@@ -16,9 +16,9 @@ public class GenericsDemo {
         int i = 1;
         list.add(i);//自动装箱,因为list是object
         list.add(new Date());
-        if (list == null) {
-            ;
-        }
+//        if (list == null) {
+//            ;
+//        }
         String first = (String) list.get(0);
         String second = (String) list.get(1);
         int third = (Integer) list.get(2);//自动拆箱
