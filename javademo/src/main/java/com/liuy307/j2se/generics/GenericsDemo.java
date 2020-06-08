@@ -25,5 +25,6 @@ public class GenericsDemo {
         Date forth = (Date) list.get(3);
         System.out.println("second = " + second);
         System.out.println(forth);
+        System.out.println("测试");
     }
 }
