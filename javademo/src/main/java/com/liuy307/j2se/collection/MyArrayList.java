@@ -29,7 +29,7 @@ public class MyArrayList {
 
     void ensureCapcityInternal(int minCapcity){
         minCapcity = reviseCapcity(minCapcity);
-        if(minCapcity > elementData.length)//重要
+        if(minCapcity > elementData.length) //重要,判断需不需要扩容
             grow(minCapcity);
     }
 
@@ -41,7 +41,7 @@ public class MyArrayList {
 
     void grow(int minCapcity) {
         int oldCapcity = elementData.length;
-        int newCapcity = oldCapcity + (oldCapcity>>1);
+        int newCapcity = oldCapcity + (oldCapcity>>1); //(oldCapcity>>1)要用括号，运算优先级
         if (newCapcity < minCapcity)
             newCapcity = minCapcity;
         this.elementData = Arrays.copyOf(elementData, newCapcity);

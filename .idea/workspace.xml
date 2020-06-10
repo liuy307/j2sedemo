@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c127440e-c5da-4514-acf8-dd34c079f54b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/MyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javademo/javademo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/javademo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javademo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javademo/target/classes/com/liuy307/j2se/generics/GenericsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/target/classes/com/liuy307/j2se/generics/GenericsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/MyArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +90,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayListDemo.MyArrayListTest">
+  <component name="RunManager" selected="JUnit.ArrayListDemo.test1">
     <configuration name="ArrayListDemo.MyArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javademo" />
       <extension name="coverage">
@@ -177,8 +173,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayListDemo.MyArrayListTest" />
         <item itemvalue="JUnit.ArrayListDemo.test1" />
+        <item itemvalue="JUnit.ArrayListDemo.MyArrayListTest" />
         <item itemvalue="JUnit.CollectionDemo.test3" />
         <item itemvalue="JUnit.CollectionDemo.test2" />
         <item itemvalue="JUnit.CollectionDemo.test1" />
@@ -211,6 +207,9 @@
       <workItem from="1591625999244" duration="14000" />
       <workItem from="1591626093803" duration="8310000" />
       <workItem from="1591705632422" duration="11338000" />
+      <workItem from="1591720700068" duration="724000" />
+      <workItem from="1591721514311" duration="28000" />
+      <workItem from="1591794315321" duration="5031000" />
     </task>
     <servers />
   </component>
@@ -246,42 +245,42 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1552" y="443" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1591718527738" />
-    <state x="1598" y="548" key="FileChooserDialogImpl" timestamp="1591624377893">
+    <state x="1598" y="548" key="FileChooserDialogImpl" timestamp="1591794991858">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1598" y="548" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591624377893" />
-    <state width="2517" height="234" key="GridCell.Tab.0.bottom" timestamp="1591720667084">
+    <state x="1598" y="548" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591794991858" />
+    <state width="1618" height="353" key="GridCell.Tab.0.bottom" timestamp="1591794452848">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="234" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591720667084" />
-    <state width="2517" height="234" key="GridCell.Tab.0.center" timestamp="1591720667084">
+    <state width="1618" height="353" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591794452848" />
+    <state width="1618" height="353" key="GridCell.Tab.0.center" timestamp="1591794452848">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="234" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591720667084" />
-    <state width="2517" height="234" key="GridCell.Tab.0.left" timestamp="1591720667084">
+    <state width="1618" height="353" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591794452848" />
+    <state width="1618" height="353" key="GridCell.Tab.0.left" timestamp="1591794452848">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="234" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591720667084" />
-    <state width="2517" height="234" key="GridCell.Tab.0.right" timestamp="1591720667084">
+    <state width="1618" height="353" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591794452847" />
+    <state width="1618" height="353" key="GridCell.Tab.0.right" timestamp="1591794452848">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="234" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591720667084" />
-    <state width="2517" height="234" key="GridCell.Tab.1.bottom" timestamp="1591720667085">
+    <state width="1618" height="353" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591794452848" />
+    <state width="1618" height="353" key="GridCell.Tab.1.bottom" timestamp="1591794453012">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="234" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591720667085" />
-    <state width="2517" height="234" key="GridCell.Tab.1.center" timestamp="1591720667084">
+    <state width="1618" height="353" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591794453012" />
+    <state width="1618" height="353" key="GridCell.Tab.1.center" timestamp="1591794453011">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="234" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591720667084" />
-    <state width="2517" height="234" key="GridCell.Tab.1.left" timestamp="1591720667084">
+    <state width="1618" height="353" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591794453011" />
+    <state width="1618" height="353" key="GridCell.Tab.1.left" timestamp="1591794453011">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="234" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591720667084" />
-    <state width="2517" height="234" key="GridCell.Tab.1.right" timestamp="1591720667084">
+    <state width="1618" height="353" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591794453011" />
+    <state width="1618" height="353" key="GridCell.Tab.1.right" timestamp="1591794453012">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="234" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591720667084" />
+    <state width="1618" height="353" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591794453012" />
     <state width="262" height="550" key="HiddenNamespacesPopup" timestamp="1591526060998">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -318,6 +317,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1347" y="530" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591719681172" />
+    <state x="381" y="229" width="1223" height="951" key="dock-window-1" timestamp="1591794371207">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="381" y="229" width="1223" height="951" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1591794371207" />
+    <state x="154" y="172" width="1223" height="920" key="dock-window-2" timestamp="1591796208155">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="154" y="172" width="1223" height="920" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1591796208155" />
     <state x="944" y="395" width="671" height="611" key="extract.method.dialog" timestamp="1591521821080">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -330,6 +337,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1537" y="381" width="313" height="349" key="jetbrains.javascript.buildTools.run-task-popup/0.0.2560.1400@0.0.2560.1400" timestamp="1591518669400" />
+    <state x="1179" y="301" key="new project wizard" timestamp="1591795018798">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1179" y="301" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1591795018798" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -341,8 +352,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/ArrayListDemo.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="7" />
+          <line>22</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/ArrayListDemo.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
