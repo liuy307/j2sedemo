@@ -11,6 +11,7 @@ public class GenericsDemo {
     //使用ArrayList时，如果不定义泛型类型时，泛型类型实际上就是Object：
     public void test1() {
         List list = new ArrayList();
+        ArrayList list2 = new ArrayList();
         list.add("Hello");
         list.add("World");
         int i = 1;

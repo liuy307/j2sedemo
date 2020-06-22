@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c127440e-c5da-4514-acf8-dd34c079f54b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/io/IoDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/generics/GenericsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/generics/GenericsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javademo/target/classes/com/liuy307/j2se/generics/GenericsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/javademo/target/classes/com/liuy307/j2se/generics/GenericsDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -76,7 +77,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java/jdk/src.zip!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -90,82 +91,81 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayListDemo.test1">
-    <configuration name="ArrayListDemo.MyArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IoDemo.readFile2">
+    <configuration name="IoDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liuy307.j2se.collection.*" />
+          <option name="PATTERN" value="com.liuy307.j2se.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.liuy307.j2se.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.collection.ArrayListDemo" />
-      <option name="METHOD_NAME" value="MyArrayListTest" />
+      <option name="PACKAGE_NAME" value="com.liuy307.j2se.io" />
+      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.io.IoDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IoDemo.getChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuy307.j2se.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuy307.j2se.io" />
+      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.io.IoDemo" />
+      <option name="METHOD_NAME" value="getChar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IoDemo.readFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liuy307.j2se.collection.*" />
+          <option name="PATTERN" value="com.liuy307.j2se.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.liuy307.j2se.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.collection.ArrayListDemo" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.liuy307.j2se.io" />
+      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.io.IoDemo" />
+      <option name="METHOD_NAME" value="readFile" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IoDemo.readFile2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liuy307.j2se.collection.*" />
+          <option name="PATTERN" value="com.liuy307.j2se.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.liuy307.j2se.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.collection.CollectionDemo" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.liuy307.j2se.io" />
+      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.io.IoDemo" />
+      <option name="METHOD_NAME" value="readFile2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionDemo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IoDemo.writeByte" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liuy307.j2se.collection.*" />
+          <option name="PATTERN" value="com.liuy307.j2se.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.liuy307.j2se.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.collection.CollectionDemo" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionDemo.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javademo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liuy307.j2se.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.liuy307.j2se.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.collection.CollectionDemo" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="PACKAGE_NAME" value="com.liuy307.j2se.io" />
+      <option name="MAIN_CLASS_NAME" value="com.liuy307.j2se.io.IoDemo" />
+      <option name="METHOD_NAME" value="writeByte" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayListDemo.test1" />
-        <item itemvalue="JUnit.ArrayListDemo.MyArrayListTest" />
-        <item itemvalue="JUnit.CollectionDemo.test3" />
-        <item itemvalue="JUnit.CollectionDemo.test2" />
-        <item itemvalue="JUnit.CollectionDemo.test1" />
+        <item itemvalue="JUnit.IoDemo.readFile2" />
+        <item itemvalue="JUnit.IoDemo" />
+        <item itemvalue="JUnit.IoDemo.readFile" />
+        <item itemvalue="JUnit.IoDemo.writeByte" />
+        <item itemvalue="JUnit.IoDemo.getChar" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,11 @@
       <workItem from="1591705632422" duration="11338000" />
       <workItem from="1591720700068" duration="724000" />
       <workItem from="1591721514311" duration="28000" />
-      <workItem from="1591794315321" duration="5031000" />
+      <workItem from="1591794315321" duration="5763000" />
+      <workItem from="1591961649963" duration="2212000" />
+      <workItem from="1591988648173" duration="22000" />
+      <workItem from="1592828009078" duration="12501000" />
+      <workItem from="1592841467275" duration="20000" />
     </task>
     <servers />
   </component>
@@ -245,42 +249,42 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1552" y="443" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1591718527738" />
-    <state x="1598" y="548" key="FileChooserDialogImpl" timestamp="1591794991858">
+    <state x="1598" y="548" key="FileChooserDialogImpl" timestamp="1591988667471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1598" y="548" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591794991858" />
-    <state width="1618" height="353" key="GridCell.Tab.0.bottom" timestamp="1591794452848">
+    <state x="1598" y="548" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591988667471" />
+    <state width="1830" height="226" key="GridCell.Tab.0.bottom" timestamp="1592841453636">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1618" height="353" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591794452848" />
-    <state width="1618" height="353" key="GridCell.Tab.0.center" timestamp="1591794452848">
+    <state width="1830" height="226" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1592841453636" />
+    <state width="1830" height="226" key="GridCell.Tab.0.center" timestamp="1592841453636">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1618" height="353" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591794452848" />
-    <state width="1618" height="353" key="GridCell.Tab.0.left" timestamp="1591794452848">
+    <state width="1830" height="226" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1592841453636" />
+    <state width="1830" height="226" key="GridCell.Tab.0.left" timestamp="1592841453636">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1618" height="353" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591794452847" />
-    <state width="1618" height="353" key="GridCell.Tab.0.right" timestamp="1591794452848">
+    <state width="1830" height="226" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1592841453636" />
+    <state width="1830" height="226" key="GridCell.Tab.0.right" timestamp="1592841453636">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1618" height="353" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591794452848" />
-    <state width="1618" height="353" key="GridCell.Tab.1.bottom" timestamp="1591794453012">
+    <state width="1830" height="226" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1592841453636" />
+    <state width="1830" height="226" key="GridCell.Tab.1.bottom" timestamp="1592841453636">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1618" height="353" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591794453012" />
-    <state width="1618" height="353" key="GridCell.Tab.1.center" timestamp="1591794453011">
+    <state width="1830" height="226" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1592841453636" />
+    <state width="1830" height="226" key="GridCell.Tab.1.center" timestamp="1592841453636">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1618" height="353" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591794453011" />
-    <state width="1618" height="353" key="GridCell.Tab.1.left" timestamp="1591794453011">
+    <state width="1830" height="226" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1592841453636" />
+    <state width="1830" height="226" key="GridCell.Tab.1.left" timestamp="1592841453636">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1618" height="353" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591794453011" />
-    <state width="1618" height="353" key="GridCell.Tab.1.right" timestamp="1591794453012">
+    <state width="1830" height="226" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1592841453636" />
+    <state width="1830" height="226" key="GridCell.Tab.1.right" timestamp="1592841453636">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1618" height="353" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591794453012" />
+    <state width="1830" height="226" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1592841453636" />
     <state width="262" height="550" key="HiddenNamespacesPopup" timestamp="1591526060998">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -317,10 +321,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1347" y="530" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591719681172" />
-    <state x="381" y="229" width="1223" height="951" key="dock-window-1" timestamp="1591794371207">
+    <state x="1042" y="123" width="1093" height="740" key="dock-window-1" timestamp="1591988669638">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="381" y="229" width="1223" height="951" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1591794371207" />
+    <state x="1042" y="123" width="1093" height="740" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1591988669638" />
     <state x="154" y="172" width="1223" height="920" key="dock-window-2" timestamp="1591796208155">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -359,6 +363,21 @@
           <url>file://$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/collection/ArrayListDemo.java</url>
           <line>11</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/generics/GenericsDemo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/io/IoDemo.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javademo/src/main/java/com/liuy307/j2se/io/IoDemo.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
